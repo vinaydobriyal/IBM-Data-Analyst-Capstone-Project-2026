@@ -68,3 +68,13 @@ project/
 - AWS is the clear leader (10,871 users).
 - React & Node.js dominate both current usage and future desire.
 - 25–34 age group is the largest cohort (7,788). Bachelor's degree is the most common education level.
+
+## Current Technology Usage
+<img width="1220" height="717" alt="Screenshot 2026-06-08 002539" src="https://github.com/user-attachments/assets/ece51c92-398f-44f4-a1c1-c49a9f9e1023" />
+
+## Future Technology Trend
+<img width="1231" height="749" alt="Screenshot 2026-06-08 002559" src="https://github.com/user-attachments/assets/3d22d3cc-095b-41c1-ab2f-9f1229bbaeeb" />
+
+## Demographics
+<img width="1216" height="704" alt="Screenshot 2026-06-08 002613" src="https://github.com/user-attachments/assets/88257154-38c0-43f5-8b72-dd50b2a2286f" />
+
