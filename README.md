@@ -53,7 +53,7 @@ project/
 
 1. Clone the repository:
    ```
-   git clone <your-repo-url>
+   git clone https://github.com/vinaydobriyal/IBM-Data-Analyst-Capstone-Project-2026.git
    ```
 2. Explore the `data/` folder for the dataset used
 3. Open notebooks in `notebooks/` to see the analysis process
