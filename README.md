@@ -61,8 +61,8 @@ project/
 
 ## 📈 Key Findings
 
-*•JavaScript leads current usage (16k+).
+•JavaScript leads current usage (16k+).
 •PostgreSQL dominates (10k+).
 •AWS is the clear leader (10,871 users).
 •React & Node.js dominate both current usage and future desire.
-•25–34 age group is the largest cohort (7,788). Bachelor's degree is the most common education level.*
+•25–34 age group is the largest cohort (7,788). Bachelor's degree is the most common education level.
