@@ -17,7 +17,7 @@ The goal is to identify patterns across tools, platforms, and demographics that 
 
 ## 🛠️ Tools & Technologies
 
-- **Python** (Pandas) — data cleaning, transformation, and analysis
+- **Python** (Pandas) — data cleaning, transformation, and analysis | 
              (matplotlib and seaborn) - Data visualization charts and graphs
 - **SQL** — querying and aggregating survey data
 - **Cognos Analytics** — interactive dashboards and visualizations
